@@ -1,0 +1,1185 @@
+//********************************************************************Division #1***************************************************************************************
+$(document).ready(function () {
+      $("#element_4").change(function() {
+var x = $('#element_4 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_5").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_5").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_5").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_5").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_5").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_5").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_5").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_5").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_5").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_5").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_5").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_5").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_5").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_5").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_5").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_5").val("Coachella");
+} {
+} 
+ });
+   });
+
+//********************************************************************Division #2***************************************************************************************
+$(document).ready(function () {
+      $("#element_21").change(function() {
+var x = $('#element_21 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_22").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_22").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_22").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_22").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_22").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_22").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_22").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_22").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_22").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_22").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_22").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_22").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_22").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_22").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_22").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_22").val("Coachella");
+} {
+} 
+ });
+   });
+//********************************************************************Division #3***************************************************************************************
+$(document).ready(function () {
+      $("#element_35").change(function() {
+var x = $('#element_35 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_36").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_36").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_36").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_36").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_36").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_36").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_36").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_36").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_36").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_36").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_36").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_36").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_36").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_36").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_36").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_36").val("Coachella");
+} {
+} 
+ });
+   });
+//********************************************************************Division #4***************************************************************************************
+$(document).ready(function () {
+      $("#element_49").change(function() {
+var x = $('#element_49 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_50").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_50").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_50").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_50").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_50").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_50").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_50").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_50").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_50").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_50").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_50").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_50").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_50").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_50").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_50").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_50").val("Coachella");
+} {
+} 
+ });
+   });
+   
+   
+//********************************************************************Division #5***************************************************************************************   
+$(document).ready(function () {
+      $("#element_63").change(function() {
+var x = $('#element_63 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_64").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_64").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_64").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_64").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_64").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_64").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_64").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_64").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_64").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_64").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_64").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_64").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_64").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_64").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_64").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_64").val("Coachella");
+} {
+} 
+ });
+   });   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+//********************************************************************Division #6***************************************************************************************
+$(document).ready(function () {
+      $("#element_77").change(function() {
+var x = $('#element_77 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_78").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_78").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_78").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_78").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_78").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_78").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_78").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_78").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_78").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_78").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_78").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_78").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_78").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_78").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_78").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_78").val("Coachella");
+} {
+} 
+ });
+   });
+//********************************************************************Division #7***************************************************************************************
+$(document).ready(function () {
+      $("#element_91").change(function() {
+var x = $('#element_91 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_92").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_92").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_92").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_92").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_92").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_92").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_92").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_92").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_92").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_92").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_92").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_92").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_92").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_92").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_92").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_92").val("Coachella");
+} {
+} 
+ });
+   });
+//********************************************************************Division #8***************************************************************************************
+$(document).ready(function () {
+      $("#element_105").change(function() {
+var x = $('#element_105 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_106").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_106").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_106").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_106").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_106").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_106").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_106").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_106").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_106").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_106").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_106").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_106").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_106").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_106").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_106").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_106").val("Coachella");
+} {
+} 
+ });
+   });
+//********************************************************************Division #9***************************************************************************************
+$(document).ready(function () {
+      $("#element_119").change(function() {
+var x = $('#element_119 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_120").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_120").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_120").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_120").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_120").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_120").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_120").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_120").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_120").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_120").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_120").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_120").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_120").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_120").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_120").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_120").val("Coachella");
+} {
+} 
+ });
+   });
+   
+
+
+$(document).ready(function () {
+      $("#element_176").change(function() {
+var x = $('#element_176 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_177").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_177").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_177").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_177").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_177").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_177").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_177").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_177").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_177").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_177").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_177").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_177").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_177").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_177").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_177").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_177").val("Coachella");
+} {
+} 
+ });
+   });
+
+
+   
+   
+//********************************************************************Division #10***************************************************************************************
+$(document).ready(function () {
+      $("#element_133").change(function() {
+var x = $('#element_133 option:selected').text();
+if (x=="2 - Containers") {
+ $("#element_134").val("Coachella");
+} {
+}
+if (x=="4 - Grease Procurement") {
+ $("#element_134").val("Arizona");
+} {
+}
+if (x=="7 - Bakery") {
+ $("#element_134").val("South Nevada");
+} {
+} 
+if (x=="B - Biodiesel Plant Processing") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="C - Buckeye Plant") {
+ $("#element_134").val("Arizona");
+} {
+} 
+if (x=="E - Mechanics") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="F - Cottonseed Trucking") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="G - Yellow Grease Process") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="H - Corporate Office") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="I - Silage") {
+ $("#element_134").val("Selma");
+} {
+} 
+if (x=="J - ByProducts Corona") {
+ $("#element_134").val("Mira Loma");
+} {
+} 
+if (x=="K - ByProducts Corona Trucking") {
+ $("#element_134").val("Mira Loma");
+} {
+} 
+if (x=="L - Soap") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="M - Corona Bakery Process") {
+ $("#element_134").val("Mira Loma");
+} {
+} 
+if (x=="N - Whey, Molases, Silage") {
+ $("#element_134").val("New Mexico");
+} {
+} 
+if (x=="O - NM Trucking") {
+ $("#element_134").val("New Mexico");
+} {
+} 
+if (x=="P - Plant Processing") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="Q - Plant Repair") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="R - Recycle, Grease, Bakery") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="T - Buckeye Trucking") {
+ $("#element_134").val("Arizona");
+} {
+} 
+if (x=="UC - Grease Procurement") {
+ $("#element_134").val("Mira Loma");
+} {
+} 
+if (x=="US - CV Grease Procurement") {
+ $("#element_134").val("Coachella");
+} {
+} 
+if (x=="V - Plant") {
+ $("#element_134").val("Selma");
+} {
+} 
+if (x=="W - ByProduct AZ") {
+ $("#element_134").val("Arizona");
+} {
+} 
+if (x=="LAB") {
+ $("#element_134").val("Coachella");
+} {
+} 
+ });
+   });

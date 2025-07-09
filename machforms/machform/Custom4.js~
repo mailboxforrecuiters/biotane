@@ -1,0 +1,9 @@
+<script type="text/javascript">
+function update totalsqft() {
+a = parseInt(document.getElementById('element_25').value, 10);
+b = parseInt(document.getElementById('element_27').value, 10);
+total = a * b;
+document.getElementById('element_28').value = total;
+}
+</script>
+<input id='element_27' type='text' onchange='update totalsqft'> <input id='element_25' type='text' onchange='update totalsqft'> <input id='element_28' type='text'>

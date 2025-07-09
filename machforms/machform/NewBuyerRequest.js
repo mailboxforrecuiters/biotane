@@ -1,0 +1,53 @@
+$(document).ready(function () {
+      $("#element_3_1").click(function() {
+
+//var x = $("#element_3_1").val();
+
+//if (x = 1) {
+if (this.checked) {
+ $("#element_4_1").val($("#element_2_1").val());
+ $("#element_4_2").val($("#element_2_2").val());
+ $("#element_4_3").val($("#element_2_3").val());
+ $("#element_4_4").val($("#element_2_4").val());
+ $("#element_4_5").val($("#element_2_5").val());
+ $("#element_4_6").val($("#element_2_6").val()); 
+//option:selected").text("United States");
+} else {
+$("#element_4_1").val("");
+ $("#element_4_2").val("");
+ $("#element_4_3").val("");
+ $("#element_4_4").val("");
+ $("#element_4_5").val("");
+ $("#element_4_6").val("");
+// option:selected").text("");
+
+}
+     });
+   });
+
+$(document).ready(function () {
+      $("#element_1").focus(function() {
+$("label[for='element_resume_checkbox']").text("Check if ready to submit request").css({ 'color':'red', 'font-size':'150%' });
+$("#submit_primary").hide();
+     });
+   });
+$(document).ready(function () {
+      $("#element_resume_checkbox").click(function() {
+$("label[for='element_resume_email']").text("Sending request to");
+$("#element_resume_email").val("ARdepartment@IWPUSA.com");
+$("#guide_resume_email").text("Request results will be sent to you via email");
+$("#button_save_form").val("Submit for Review");
+     });
+   });
+$(document).ready(function () {
+      $("#element_resume_email").focus(function() {
+if (this.checked) {
+$("#button_save_form").val("Submit for Review");
+} else {
+}
+     });
+   });
+
+
+
+
